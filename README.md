@@ -15,5 +15,6 @@
 - [Loops](python/python_fundamentals/loops.py)
 - [Python Tutor](https://pythontutor.com/)
 - [Python Loops Predict (Practice)](python/python_fundamentals/python_loops_predict.py)
+- [For Loops Basic 1 (Practice)](python/python_fundamentals/for_loops_basic1_predict.py)
 - [Functions](python/python_fundamentals/functions.py)
 - [Function Basics 1](python/python_fundamentals/function_basics_1.py)
